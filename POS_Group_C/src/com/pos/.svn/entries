@@ -1,0 +1,43 @@
+10
+
+dir
+54
+svn://lms.icalibrator.com/POS_Group_C/src/com/pos
+svn://lms.icalibrator.com/POS_Group_C
+
+
+
+2012-09-15T11:39:59.789776Z
+43
+jivi
+
+
+
+
+
+
+
+
+
+
+
+
+
+incomplete
+b17a41b8-e070-491d-ae99-411b84a9836a
+
+model
+dir
+
+controller
+dir
+
+dao
+dir
+
+facade
+dir
+
+dto
+dir
+
